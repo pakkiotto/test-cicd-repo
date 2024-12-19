@@ -1,0 +1,39 @@
+# Maven target directory
+/target/
+
+# Eclipse specific files
+/.classpath
+/.project
+/.settings/
+
+# IntelliJ IDEA specific files
+/.idea/
+/*.iml
+
+# VS Code specific files
+/.vscode/
+
+# MacOS specific files
+.DS_Store
+
+# Quarkus dev services
+devservices/
+
+# Logs
+*.log
+
+# Generated files
+.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Operating system specific
+Thumbs.db
+ehthumbs.db
+
