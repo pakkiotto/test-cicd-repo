@@ -26,6 +26,7 @@ devservices/
 .mvn/wrapper/maven-wrapper.jar
 mvnw
 mvnw.cmd
+.mvn/
 
 # Temporary files
 *.tmp
